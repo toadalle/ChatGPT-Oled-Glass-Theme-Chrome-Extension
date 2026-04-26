@@ -1,4 +1,5 @@
 <img width="128" height="128" alt="icon128" src="https://github.com/user-attachments/assets/4b90cd60-17c9-4f34-8ab7-d2e7a3f834c4" />
+
 ## Description
 ChatGPT-Oled-Glass-Theme-Chrome-Extension
 A modern dark UI enhancement for the ChatGPT webpage. Adds subtle, transparent glass-style containers around most interface elements for a cleaner, more refined appearance. The glass tint dynamically matches your selected accent color in settings.
